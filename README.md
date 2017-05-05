@@ -1,7 +1,8 @@
-<!DOCTYPE html>
+
 
 <head>
   <p align="center">
+  <a href="https://sieetse94.github.io/">
   GitHub Pages of Sietse de Kok - 10551638
   Minor Programmeren
   </p>
