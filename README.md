@@ -17,6 +17,12 @@
       <a href="http://htmlpreview.github.io/?https://github.com/Sieetse94/Data-Processing/blob/master/Homework/Week%203/barchart.html">
         Week 3: Barchart of duration of rainfall at De Bilt using d3
       </a>
+      <a href="https://github.com/Sieetse94/Data-Processing/blob/master/Homework/Week%204">
+      Week 4: Scatterplot source map
+      </a>
+      <a href="http://htmlpreview.github.io/?https://github.com/Sieetse94/Data-Processing/blob/master/Homework/Week%204/scatterplot.html">
+      Week 4: Scatterplot website
+      </a>
     </p>
   </p>
 </body>
