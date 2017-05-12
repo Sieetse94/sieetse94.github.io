@@ -31,6 +31,5 @@
       Week 5: Multiseries Linegraph
       </a>
     </p>
-  </p>
 </body>
 
