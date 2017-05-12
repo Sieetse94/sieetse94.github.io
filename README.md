@@ -22,10 +22,7 @@
         </a>
       </p>
       <p>
-        <a href="https://github.com/Sieetse94/Data-Processing/blob/master/Homework/Week%204">
-        Week 4: Scatterplot source map
-        </a>
-        <a href="http://htmlpreview.github.io/?https://github.com/Sieetse94/Data-Processing/blob/master/Homework/Week%204/scatterplot.html">
+         <a href="http://htmlpreview.github.io/?https://github.com/Sieetse94/Data-Processing/blob/master/Homework/Week%204/scatterplot.html">
         Week 4: Scatterplot website
         </a>
       </p>
