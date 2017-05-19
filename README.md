@@ -14,9 +14,6 @@
     <p>
       Data processing assignments
       <p>
-        Week 2: 
-      </p>
-      <p>
         <a href="http://htmlpreview.github.io/?https://github.com/Sieetse94/Data-Processing/blob/master/Homework/Week%203/barchart.html">
           Week 3: Barchart of duration of rainfall at De Bilt using d3
         </a>
@@ -29,6 +26,9 @@
       <p>
       <a href="http://htmlpreview.github.io/?https://github.com/Sieetse94/Data-Processing/blob/master/Homework/Week%205/linegraph.html">
       Week 5: Multiseries Linegraph
+      </a>
+      <a href="http://htmlpreview.github.io/?https://github.com/Sieetse94/Data-Processing/blob/master/Homework/week%206/interactive.html">
+      Week 6: Linked Views, Part 1
       </a>
     </p>
 </body>
