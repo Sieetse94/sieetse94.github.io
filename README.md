@@ -27,9 +27,12 @@
       <a href="http://htmlpreview.github.io/?https://github.com/Sieetse94/Data-Processing/blob/master/Homework/Week%205/linegraph.html">
       Week 5: Multiseries Linegraph
       </a>
+      </p>
+      <p>
       <a href="http://htmlpreview.github.io/?https://github.com/Sieetse94/Data-Processing/blob/master/Homework/week%206/interactive.html">
       Week 6: Linked Views, Part 1
       </a>
-    </p>
+      </p>
+    
 </body>
 </html>
