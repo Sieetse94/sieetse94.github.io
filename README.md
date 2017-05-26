@@ -30,7 +30,7 @@
       </p>
       <p>
       <a href="http://htmlpreview.github.io/?https://github.com/Sieetse94/Data-Processing/blob/master/Homework/week%206/interactive.html">
-      Week 6: Linked Views, Part 1
+      Week 6: Linked Views, Final. Open locally, Pages does weird things.
       </a>
       </p>
     
